@@ -1,0 +1,25 @@
+###################################
+# Syntax Coloring Map For Motor
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+Motor	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+forward	KEYWORD2
+backward	KEYWORD2
+left	KEYWORD2
+right	KEYWORD2
+left	KEYWORD2
+brake	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+
